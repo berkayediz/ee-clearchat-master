@@ -1,6 +1,6 @@
-# ee-clear
+# ee-clearchat
 
-"ee-clear" is a script for FiveM that allows players to clear their own chat using the `/clear` command and provides admins with the ability to clear all chat messages using the `/clearall` command.
+"ee-clearchat" is a script for FiveM that allows players to clear their own chat using the `/clear` command and provides admins with the ability to clear all chat messages using the `/clearall` command.
 
 ## Features
 
@@ -9,13 +9,13 @@
 
 ## Installation
 
-1. 📥 Download the "ee-clear" script from the repository.
-2. 🔄 Rename the script folder from "ee-clear-master" to "ee-clear".
-3. 📂 Place the "ee-clear" folder in the resources directory of your FiveM server.
+1. 📥 Download the "ee-clearchat" script from the repository.
+2. 🔄 Rename the script folder from "ee-clearchat-master" to "ee-clearchat".
+3. 📂 Place the "ee-clearchat" folder in the resources directory of your FiveM server.
 4. ✏️ Open your `server.cfg` file.
 5. ➕ Add the following line to the `server.cfg` file:
    ```
-   ensure ee-clear
+   ensure ee-clearchat
    ```
 
 ## Usage
